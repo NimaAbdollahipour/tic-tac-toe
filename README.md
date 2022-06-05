@@ -9,4 +9,4 @@
 
 
 ## Game Over!
-[tic3](https://user-images.githubusercontent.com/76151058/172063308-9ba0d3e7-3b79-4391-a6e5-8a27a77163d3.png)
+![tic3](https://user-images.githubusercontent.com/76151058/172063308-9ba0d3e7-3b79-4391-a6e5-8a27a77163d3.png)
