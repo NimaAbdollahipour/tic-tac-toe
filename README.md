@@ -1,4 +1,5 @@
 # tic-tac-toe
+This application stores the results of previous games and you can choose to start a new game or continue after each game
 ## Start Page
 ![tic-tac-toe1](https://user-images.githubusercontent.com/76151058/172063294-3202cf26-e8fb-4dd9-b725-7ad93ccbb791.png)
 
